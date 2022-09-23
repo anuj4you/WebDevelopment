@@ -1,2 +1,2 @@
 # WebDevelopment
-Check out these some of the web development projects I am  working on 
+Check out some of the web development projects I am  working on :)
